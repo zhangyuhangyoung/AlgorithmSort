@@ -1,0 +1,9 @@
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\bin\Debug\AlgorithmSort.exe.config
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\bin\Debug\AlgorithmSort.exe
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\bin\Debug\AlgorithmSort.pdb
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\obj\Debug\AlgorithmSort.csprojAssemblyReference.cache
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\obj\Debug\AlgorithmSort.Properties.Resources.resources
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\obj\Debug\AlgorithmSort.csproj.GenerateResource.cache
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\obj\Debug\AlgorithmSort.csproj.CoreCompileInputs.cache
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\obj\Debug\AlgorithmSort.exe
+C:\Users\YH\source\repos\AlgorithmSort\AlgorithmSort\obj\Debug\AlgorithmSort.pdb
